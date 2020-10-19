@@ -1,0 +1,17 @@
+.avatar {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+}
+
+.avatar img {
+  max-width: 100%;
+}
+
+.avatar span {
+  font-size: 1.3rem;
+  padding-top: 1rem;
+  color: var(--darkblue);
+  font-weight: bold;
+  text-align: center;
+}

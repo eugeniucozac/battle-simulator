@@ -1,0 +1,11 @@
+.wrapper {
+  text-align: center;
+}
+
+.wrapper button {
+  border: none;
+  color: var(--white);
+  padding: 1rem 2rem;
+  font-size: 1.4rem;
+  cursor: pointer;
+}

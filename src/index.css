@@ -1,0 +1,19 @@
+:root {
+  --blue: rgb(9, 41, 182);
+  --orange: #fc7703;
+  --lightblue: #0eb3a8;
+  --darkblue: rgb(35, 66, 124);
+  --white: #fff;
+  --rose: #ff5454;
+  --green: green;
+  --lightgreen: rgba(107, 255, 84, 1);
+  --yellow: rgba(255, 246, 84, 1);
+  --lightorange: rgba(255, 178, 84, 1);
+  --red: rgba(255, 84, 84, 1);
+  --black: hsla(0, 0%, 0%, 0.7);
+}
+
+body {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
